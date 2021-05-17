@@ -10,3 +10,19 @@
     <a href="https://shivdon.github.io/My-Personal-Website/"><img height="35px" width="35px" src="https://github.com/shivdon/shivdon/blob/master/images/man.png" alt="dribbble" /></a>&nbsp;&nbsp;
  </p>
 
+---
+
+## About ME 🤗😀💻🌠
+
+I am a Full Stack Developer. I Love to develop new projects and Enjoy working on Different Technologies.
+I can Proudly Say Learning is my Expertise Area. Consistency in Learning is My Passion. 
+My hobbies are Gymming and Exploring the New. I love Food 😘😜
+
+
+<table>
+<thead>
+<tr>
+    <td>basketball</td>           
+</tr>
+</thead>
+</table>
