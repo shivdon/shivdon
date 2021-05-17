@@ -22,6 +22,8 @@ My hobbies are Gymming and Exploring the New. I love Food 😘😜<br>
 
 ## Technologies Explored and Learning Until Now 👨‍💻
 
-<img src="https://media.giphy.com/media/oTxwqk73U5ffrnahMC/giphy.gif" /> <img src="https://media.giphy.com/media/QQd3lwwC6Y23Haq6z7/giphy.gif" />
+<img src="https://media.giphy.com/media/oTxwqk73U5ffrnahMC/giphy.gif" /> <br> <br> <img src="https://media.giphy.com/media/QQd3lwwC6Y23Haq6z7/giphy.gif" />
+
+---
 
 
