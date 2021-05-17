@@ -7,6 +7,6 @@
  <p align="center">
     <a href="https://dribbble.com/LearnSleepRepeat"><img height="35px" width="35px" src="https://github.com/shivdon/shivdon/blob/master/images/dribbble.png" alt="dribbble" /></a>&nbsp;&nbsp;
      <a href="https://ecommerce-world.netlify.app"><img height="35px" width="35px" src="https://github.com/shivdon/shivdon/blob/master/images/world-wide-web.png" alt="dribbble" /></a>&nbsp;&nbsp;
-    <a href="https://ecommerce-world.netlify.app"><img height="35px" width="35px" src="https://github.com/shivdon/shivdon/blob/master/images/world-wide-web.png" alt="dribbble" /></a>&nbsp;&nbsp;
+    <a href="https://shivdon.github.io/my-"><img height="35px" width="35px" src="https://github.com/shivdon/shivdon/blob/master/images/man.png" alt="dribbble" /></a>&nbsp;&nbsp;
  </p>
 
