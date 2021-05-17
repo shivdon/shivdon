@@ -19,11 +19,20 @@ I can Proudly Say Learning is my Expertise Area. Consistency in Learning is My P
 My hobbies are Gymming and Exploring the New. I love Food 😘😜<br>
 
 ---
+<br>
+<br>
+<br>
 
 ## Technologies Explored and Learning Until Now 👨‍💻
 
 <img src="https://media.giphy.com/media/oTxwqk73U5ffrnahMC/giphy.gif" /> <br> <br> <img src="https://media.giphy.com/media/QQd3lwwC6Y23Haq6z7/giphy.gif" />
 
 ---
+
+<br>
+<br>
+
+## Current Project-based Working ⚒👷‍♂️
+I'm Currently Working As a FrontEnd React Developer at [OneHotMl](https://onehotml.com/)
 
 
