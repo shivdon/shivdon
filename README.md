@@ -5,7 +5,7 @@
   <hr>
   
  <p align="center">
-    <a href="https://dribbble.com/LearnSleepRepeat"><img height="20px" width="20px" src="https://github.com/shivdon/shivdon/edit/master/images/dribbble.png" alt="dribbble" /></a>&nbsp;&nbsp;
-     <a href="https://ecommerce-world.netlify.app"><img height="20px" width="20px" src="https://github.com/shivdon/shivdon/edit/master/images/world-wide-web.png" alt="dribbble" /></a>&nbsp;&nbsp;
+    <a href="https://dribbble.com/LearnSleepRepeat"><img height="20px" width="20px" src="https://github.com/shivdon/shivdon/tree/master/images/dribbble.png" alt="dribbble" /></a>&nbsp;&nbsp;
+     <a href="https://ecommerce-world.netlify.app"><img height="20px" width="20px" src="https://github.com/shivdon/shivdon/tree/master/images/world-wide-web.png" alt="dribbble" /></a>&nbsp;&nbsp;
  </p>
 
