@@ -43,9 +43,7 @@ My hobbies are Gymming and Exploring the New. I love Food 😘😜<br>
 
 <hr> 
 <br>
-<p align="center">
-# _My MOTTO in Life_ ** Never Stop Learning **
-</p>
+<h1><i> My MOTTO IN LIFE </i> <b>Never Stop Learning </b> </h1>
 <br>
 <hr>
 
