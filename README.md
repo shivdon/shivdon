@@ -14,9 +14,9 @@
 
 ## About ME 🤗😀💻🌠
 
-I am a Full Stack Developer. I Love to develop new projects and Enjoy working on Different Technologies.
-I can Proudly Say Learning is my Expertise Area. Consistency in Learning is My Passion. 
-My hobbies are Gymming and Exploring the New. I love Food 😘😜
+I am a Full Stack Developer. I Love to develop new projects and Enjoy working on Different Technologies. <br>
+I can Proudly Say Learning is my Expertise Area. Consistency in Learning is My Passion. <br>
+My hobbies are Gymming and Exploring the New. I love Food 😘😜<br>
 
 
 <table>
