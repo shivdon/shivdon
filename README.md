@@ -1,4 +1,4 @@
 <div width="100%">
-    <img align="center" src="https://media.giphy.com/media/Tn6GIpm2W0BGWN4GyI/giphy.gif" />
+    <img align="center" src="./Animated-GIF-downsized_large.svg" />
   </div>
 
