@@ -19,7 +19,7 @@ I can Proudly Say Learning is my Expertise Area. Consistency in Learning is My P
 My hobbies are Gymming and Exploring the New. I love Food 😘😜<br>
 
 
-<table border=0>
+<table border=false>
 <thead>
 <tr>
     <td>basketball</td>           
