@@ -18,11 +18,10 @@ I am a Full Stack Developer. I Love to develop new projects and Enjoy working on
 I can Proudly Say Learning is my Expertise Area. Consistency in Learning is My Passion. <br>
 My hobbies are Gymming and Exploring the New. I love Food 😘😜<br>
 
+---
 
-<table border="0">
-<thead>
-<tr>
-    <td>basketball</td>           
-</tr>
-</thead>
-</table>
+## Technologies Explored and Learning Until Now 👨‍💻
+
+<img src="https://media.giphy.com/media/oTxwqk73U5ffrnahMC/giphy.gif" /> <img src="https://media.giphy.com/media/QQd3lwwC6Y23Haq6z7/giphy.gif" />
+
+
